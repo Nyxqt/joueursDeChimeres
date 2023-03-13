@@ -1,0 +1,36 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+/* FONT */
+
+.title-f {
+    font-family: 'Kaushan Script', cursive;
+}
+
+.text-f {
+    font-family: 'Amatic SC', cursive;
+}
+
+.important-f {
+    font-family: 'Poiret One', cursive;
+}
+
+nav ul li {
+    text-transform: uppercase;
+}
+
+nav ul li:not(:last-child) {
+    border-right: solid 1px white;
+}
+
+.background-nav {
+    background: rgba(63, 54, 54, 0.8);
+}
+
+#footer {
+    height: 200px;
+    background: url('../images/banniere.jpg');
+    background-size: cover;
+}
