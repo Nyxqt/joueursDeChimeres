@@ -1,4 +1,4 @@
 <?php
 
-require('../controllers/homepage.php');
-homepage();
+require('../controllers/association.php');
+association();

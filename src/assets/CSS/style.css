@@ -34,3 +34,11 @@ nav ul li:not(:last-child) {
     background: url('../images/banniere.jpg');
     background-size: cover;
 }
+
+.mt6 {
+    margin-top: 6em;
+}
+
+.underline {
+    text-decoration: underline;
+}
